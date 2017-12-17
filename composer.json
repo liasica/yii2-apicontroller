@@ -1,0 +1,23 @@
+{
+    "name": "liasica/yii2-ApiController",
+    "description": "YII2输出api数据，非restful api",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "liasica",
+            "email": "magicrolan@qq.com"
+        }
+    ],
+    "type": "yii2-extension",
+    "require": {
+        "yiisoft/yii2": "^2.0"
+    },
+    "require-dev": {
+        "yiisoft/yii2": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "liasica\\ApiController\\": ""
+        }
+    }
+}

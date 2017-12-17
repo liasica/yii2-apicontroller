@@ -5,7 +5,7 @@
  * CreateTime: 2017/12/17 上午11:44
  */
 
-namespace liasica\apicontroller;
+namespace liasica\ApiController;
 
 use yii\web\Response;
 
