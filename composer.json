@@ -1,5 +1,5 @@
 {
-    "name": "liasica/yii2-ApiController",
+    "name": "liasica/yii2-apicontroller",
     "description": "YII2输出api数据，非restful api",
     "license": "GPL",
     "authors": [
